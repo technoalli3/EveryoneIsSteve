@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "minecraft:block/cartography_table_side3",
+    "north": "steve:block/steve_front",
+    "south": "steve:block/steve_back",
+    "east": "steve:block/steve_left",
+    "west": "steve:block/steve_right",
+    "up": "steve:block/steve_top",
+    "down": "steve:block/steve_bottom"
+  }
+}
